@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.AudioTest", "Maui.AudioTest\Maui.AudioTest.csproj", "{8CDA83EE-2DB1-4B94-BA7C-32F7E4B2869A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CDA83EE-2DB1-4B94-BA7C-32F7E4B2869A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDA83EE-2DB1-4B94-BA7C-32F7E4B2869A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDA83EE-2DB1-4B94-BA7C-32F7E4B2869A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8CDA83EE-2DB1-4B94-BA7C-32F7E4B2869A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDA83EE-2DB1-4B94-BA7C-32F7E4B2869A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CDA83EE-2DB1-4B94-BA7C-32F7E4B2869A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EAD46A4-A7FA-4ACE-A8BA-8351D8B95815}
+	EndGlobalSection
+EndGlobal
